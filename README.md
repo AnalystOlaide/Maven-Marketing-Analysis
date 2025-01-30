@@ -26,15 +26,16 @@ The primary goal is to identify trends, underperforming areas, and opportunities
 
 6. **Channel Performance**  
    - Which channels are underperforming?  
+![image](https://github.com/user-attachments/assets/763e7a1f-41cd-4508-a3f3-8cd9bfb78c33)
 
-## **Handling Missing Values (Blanks)**  
+## **Insights Deep Dive**  
 1. **Identifying Missing Values:**  
    - The **Income** column contained blank (null) entries.  
 
-2. **Data Cleaning Approach:**  
+2 **Data Cleaning Approach:**  
    - Used **Power Query**: *Remove Rows > Remove Blank Rows* to eliminate missing income values.  
 
-## **Handling the Outlier (666,666 in Income Column)**  
+ **Handling the Outlier (666,666 in Income Column)**  
 1. **Identifying the Outlier:**  
    - The **Income** column values ranged between **2,000 and 165,000**, except for an extreme outlier of **666,666**.  
 
@@ -43,30 +44,30 @@ The primary goal is to identify trends, underperforming areas, and opportunities
 
 ## **Web Purchase Analysis**  
 
-### **Income Range**  
+## **Income Range**  
 - Customers earning **50k-100k** make the most web purchases.  
 - Very few purchases come from income ranges below **20k** and above **200k**.  
 - This suggests that **middle-income consumers are the most active online buyers**.  
 
-### **Age Group**  
+## **Age Group**  
 - The highest number of web purchases comes from individuals born between **1960-1980**, followed by **1950-1960**.  
 - **Younger groups (1980-2000)** also contribute, but at a lower rate.  
 - **Older generations (1893-1940)** have the least web purchases.  
 - This implies that **middle-aged consumers drive the majority of online purchases**.  
 
-### **Marital Status**  
+## **Marital Status**  
 - **Married and courting** individuals make the most purchases.  
 - **Single and divorced** individuals buy less.  
 - **Widowed and YOLO categories** have minimal engagement.  
 - This indicates that **family-oriented individuals tend to have higher purchasing power**.  
 
-### **Education Level**  
+## **Education Level**  
 - Customers with a **Graduation or PhD** education level purchase the most.  
 - **Master’s and 2nd Cycle degree holders** also contribute significantly.  
 - Customers with **Basic education** have the least web purchases.  
 - This suggests that **higher education correlates with increased online shopping activity**.  
 
-### **Country**  
+## **Country**  
 - **Spain** has the highest number of web purchases, followed by **Saudi Arabia** and **Canada**.  
 - **Mexico, Germany, and the USA** have the lowest web purchase rates.  
 - This indicates that **geographic location influences online buying behavior**.  
