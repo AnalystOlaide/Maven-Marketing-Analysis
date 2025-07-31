@@ -25,9 +25,9 @@ The primary goal is to identify trends, underperforming areas, and opportunities
    - Which products perform best?  
 
 6. **Channel Performance**  
-   - Which channels are underperforming?  
-
-<img width="987" height="554" alt="image" src="https://github.com/user-attachments/assets/1e2c96ea-fa29-4d1d-9428-cd133e8daead" />
+   - Which channels are underperforming?
+   - 
+<img width="989" height="558" alt="image" src="https://github.com/user-attachments/assets/d3776f8f-2ce4-4ee8-bb76-edc2ab07af47" />
 
 
 ## **Insights Deep Dive**  
