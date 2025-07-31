@@ -1,8 +1,7 @@
-
-
 # **Maven Marketing Project**  
 
 ## **Project Background**  
+
 The Maven Marketing Project analyzes web purchase behaviors, marketing campaign performance, and product sales to derive insights that enhance business decision-making. This analysis is based on a dataset that includes customer demographics, income range, marital status, purchasing behaviors, and sales performance.  
 
 The primary goal is to identify trends, underperforming areas, and opportunities for optimization in marketing strategies. Additionally, the project incorporates data from **2,240 customers** of Maven Marketing, covering customer profiles, product preferences, campaign effectiveness, and channel performance.  
@@ -35,7 +34,7 @@ Handling the Outlier (666,666 in Income Column)
 
 During exploratory data analysis, an income value of 666,666 stood out far above the rest of the data, which typically ranged from 2,000 to 165,000. To prevent skewing statistical results, this outlier was replaced with the median income of the dataset.
 
-# **Web Purchase Analysis**  
+### **Web Purchase Analysis**  
 
  **Income Range**  
 - Customers earning **50k-100k** make the most web purchases.  
@@ -65,14 +64,14 @@ During exploratory data analysis, an income value of 666,666 stood out far above
 - **Mexico, Germany, and the USA** have the lowest web purchase rates.  
 - This indicates that **geographic location influences online buying behavior**.  
 
-**Marketing Campaign Performance**  
+### **Marketing Campaign Performance**  
 The most successful marketing campaign was:  
 - **Campaign 4** with **25.04% success rate**.  
 - **Campaign 3 and Campaign 5** followed closely, each with **24.44% success rate**.  
 
 This suggests that **Campaign 4 was the most effective in driving customer engagement and purchases**.  
 
-**Customer Profile Analysis**  
+### **Customer Profile Analysis**  
 The **average Maven Marketing customer** is:  
 - **Married**  
 - Born between **1960-1980**  
@@ -81,14 +80,14 @@ The **average Maven Marketing customer** is:
 - Lives in **Spain**  
 - Primarily purchases **wine from the store**  
 
-**Product Performance**  
+### **Product Performance**  
 The **top-performing products** are:  
 - **Wine** – **50.17% of total sales**  
 - **Meat** – **27.56% of total sales**  
 
 These products drive the highest revenue, making them key contributors to business success.  
 
-**Channel Performance**  
+### **Channel Performance**  
 - The most underperforming sales channel is **Deal (15.64%)**.  
 - The highest-performing sales channel is **Store (38.96%)**.  
 
