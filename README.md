@@ -26,7 +26,9 @@ The primary goal is to identify trends, underperforming areas, and opportunities
 
 6. **Channel Performance**  
    - Which channels are underperforming?  
-![image](https://github.com/user-attachments/assets/763e7a1f-41cd-4508-a3f3-8cd9bfb78c33)
+
+<img width="987" height="554" alt="image" src="https://github.com/user-attachments/assets/1e2c96ea-fa29-4d1d-9428-cd133e8daead" />
+
 
 ## **Insights Deep Dive**  
 1. **Identifying Missing Values:**  
